@@ -2,7 +2,7 @@
   "name": "ecommerce",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Sharayu234.github.io/Dishmenu",
+  "homepage": "https://Sharayu234.github.io/DishMenu",
   "type": "module",
   "scripts": {
     "dev": "vite",
