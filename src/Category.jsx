@@ -9,7 +9,7 @@ import { GiHamburger } from "react-icons/gi";
 const Categories = [
     {
         id: 1,
-        name: "abc",
+        name: "All",
         icon: <TiThSmallOutline className="w-[60px] h-[60px] text-pink-800" />
     },
 
@@ -45,7 +45,7 @@ const Categories = [
 
     {
         id: 7,
-        name: "Burger1",
+        name: "Burger",
         icon: <GiHamburger className="w-[60px] h-[60px] text-pink-800" />
     }
 ]
