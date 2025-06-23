@@ -45,7 +45,7 @@ const Categories = [
 
     {
         id: 7,
-        name: "Burger",
+        name: "Burger1",
         icon: <GiHamburger className="w-[60px] h-[60px] text-pink-800" />
     }
 ]
